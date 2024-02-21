@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/vacaciones-react/static/css/main.154bc974.css",
+    "main.js": "/vacaciones-react/static/js/main.5b441938.js",
+    "index.html": "/vacaciones-react/index.html",
+    "main.154bc974.css.map": "/vacaciones-react/static/css/main.154bc974.css.map",
+    "main.5b441938.js.map": "/vacaciones-react/static/js/main.5b441938.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.154bc974.css",
+    "static/js/main.5b441938.js"
+  ]
+}
